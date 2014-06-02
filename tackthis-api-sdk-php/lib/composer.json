@@ -1,0 +1,19 @@
+{
+    "name": "tackthis/php-sdk-v1",
+    "description": "TackThis SDK for PHP",
+    "keywords": ["TackThis", "sdk"],
+    "type": "library",
+    "homepage": "https://github.com/facebook/facebook-php-sdk-v4",
+    "license": "TackThis Platform",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "TackThis": "TackThis/"
+        }
+    }
+}
